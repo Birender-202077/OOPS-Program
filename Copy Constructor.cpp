@@ -1,4 +1,4 @@
-// demonstrate the concept of paramertrized constructor
+// demonstrate the concept of copy constructor
 
 #include <iostream>
 using namespace std;
